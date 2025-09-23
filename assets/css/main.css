@@ -86,6 +86,9 @@ canvas {
 
 /* End of Background Animation */
 
+#me{
+	border-radius: 50%;
+}
 
 .atags{
 	text-decoration: none;
@@ -106,16 +109,16 @@ canvas {
 }
 
 .nacos{
-		background-image: url("/images/NACOS\ ABU-1.png");
+		background-image: url("../../images/NACOS\ ABU-1.png");
 		background-size: contain;
 	}
 
 .letsdefend{
-	background-image: url("/images/cybersec4studs.png");
+	background-image: url("../../images/cybersec4studs.png");
 }
 
 .letsdefend2{
-	background-image: url("/images/chal-map.png");
+	background-image: url("../../images/chal-map.png");
 }
 
 .c{
