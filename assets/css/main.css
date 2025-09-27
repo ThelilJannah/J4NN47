@@ -101,7 +101,7 @@ canvas {
 	color: #fff;
 }
 
-.nacos, .letsdefend, .letsdefend2{
+.nacos, .letsdefend, .letsdefend2, .holmes, .letsdefend3{
 	width: 364px;
   	height: 269px;
   	background-size: cover;
@@ -121,9 +121,14 @@ canvas {
 	background-image: url("../../images/chal-map.png");
 }
 
-.c{
-	margin: 0 auto;
+.letsdefend3{
+	background-image: url("../../images/soc-analyst.png");
 }
+
+.holmes{
+	background-image: url("../../images/holmes-ctf.png");
+}
+
 
 .next{
 	text-align: left;
