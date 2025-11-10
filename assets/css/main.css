@@ -85,6 +85,9 @@ canvas {
 }
 
 /* End of Background Animation */
+.c{
+	margin: 0 auto;
+}
 
 .atags{
 	text-decoration: none;
