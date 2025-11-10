@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*          *     .        *  .    *    *   . 
  .  *  move your mouse to over the stars   .
  *  .  .   change these values:   .  *
